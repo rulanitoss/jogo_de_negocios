@@ -1,0 +1,27 @@
+{
+  "name": "MERCADO VIVO — Simulador Económico",
+  "short_name": "Mercado Vivo",
+  "description": "Simulador económico e empresarial multijogador. Moeda 100% virtual em euros, sem valor real.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d1117",
+  "theme_color": "#1a5ff5",
+  "lang": "pt",
+  "categories": ["games", "simulation", "finance"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
